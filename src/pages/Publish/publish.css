@@ -1,0 +1,10 @@
+.publish{
+    color: cornflowerblue;
+    text-align: center;
+}
+.publishAlign
+{
+    display: flex;
+    justify-content: center;
+    flex: 9;
+}
